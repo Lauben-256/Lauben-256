@@ -21,16 +21,14 @@ Website Twitter Follow
 <tumusiimelauben9@gmail.com>
 [Website](https://lauben-256.github.io)
 
-[<img src="https://icons.getbootstrap.com/icons/github/" />](https://github.com/Lauben-256)
+[Github](https://github.com/Lauben-256)
 
 [StackOverflow](https://stackoverflow.com/users/13951687/lauben-junior)
 
 [LinkedIn](https://www.linkedin.com/in/lauben-junior-tumusiime-1184981b5/)
 
-[<img align="left" alt"Twitter" width="26px" src="https://icons8.com/icon/3861/twitter"/>](https://twitter.com/codeline17)
+[Twitter](https://twitter.com/codeline17)
 
 [Instagram](https://www.instagram.com/code.line_/)
 <br />
 
-### Languages and Tools:
-[<img  alt="Twitter" width="30px" src="https://icons.getbootstrap.com/icons/twitter/"/>]
