@@ -11,6 +11,8 @@ Website Twitter Follow
 
 3. 2021 Goals
     - Dive deeper into Web Application Development and work on personal projects.
+    - Deploy an e-commerce website
+    - Work on more problem solving
 
 4. l'm looking forward to collaborating and working with other software engineers. 
 
@@ -20,6 +22,7 @@ Website Twitter Follow
 
 ### Connect with me:
 <tumusiimelauben9@gmail.com>
+
 [Website](https://lauben-256.github.io)
 
 [Github](https://github.com/Lauben-256)
