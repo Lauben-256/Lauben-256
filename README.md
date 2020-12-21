@@ -21,7 +21,7 @@ Website Twitter Follow
 <tumusiimelauben9@gmail.com>
 [Website](https://lauben-256.github.io)
 
-[Github](https://github.com/Lauben-256)
+[<img src="https://icons.getbootstrap.com/icons/github/" />](https://github.com/Lauben-256)
 
 [StackOverflow](https://stackoverflow.com/users/13951687/lauben-junior)
 
