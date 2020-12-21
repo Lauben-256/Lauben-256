@@ -15,6 +15,7 @@ Website Twitter Follow
 4. l'm looking forward to collaborating and working with other software engineers. 
 
 5. l love reading, playing football. 
+
 <br />
 
 ### Connect with me:
@@ -30,5 +31,6 @@ Website Twitter Follow
 [Twitter](https://twitter.com/codeline17)
 
 [Instagram](https://www.instagram.com/code.line_/)
+
 <br />
 
