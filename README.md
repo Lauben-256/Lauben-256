@@ -15,7 +15,7 @@
 
 4. l'm looking forward to collaborating and working with other software engineers. 
 
-5. l love reading, playing football. 
+5. l love coding, reading anything, playing football. 
 
 <br />
 
