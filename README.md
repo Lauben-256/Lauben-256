@@ -57,7 +57,7 @@
 ### GITHUB STATS
 <br />
 
-![Lauben's github stats](https://github-readme-stats.vercel.app/api?username=Lauben-256&count_private=true&theme=merko&hide=contribs,prs)
+![Lauben's github stats](https://github-readme-stats.vercel.app/api?username=Lauben-256&count_private=true&theme=merko&hide=contribs,prs&show_icons=true)
 
 <br />
 
