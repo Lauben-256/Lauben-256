@@ -27,9 +27,9 @@ Website Twitter Follow
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@codeline17-1ca0f1?style=flat&labelColor=1ca0f1&logo=www&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/codeline17) -->
 
 
-[Twitter](https://twitter.com/codeline17)
+<!-- [Twitter](https://twitter.com/codeline17)
 
-[Instagram](https://www.instagram.com/code.line_/) -->
+[Instagram](https://www.instagram.com/code.line_/) --> 
 
 [![Twitter Badge](https://img.shields.io/badge/-@codeline17-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/codeline17)  [![Linkedin Badge](https://img.shields.io/badge/-Lauben-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauben-junior-tumusiime/) [![Mail Badge](https://img.shields.io/badge/-@code.line_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/code.line_/) [![Mail Badge](https://img.shields.io/badge/-Lauben-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tumusiimelauben9@gmail.com) [![Github Badge](https://img.shields.io/badge/-@Lauben-1ca0f1?style=flat&labelColor=1ca0f1&logo=github&logoColor=white&link=https://github.com/Lauben-256)](https://github.com/Lauben-256) [![Stackoverflow Badge](https://img.shields.io/badge/-@Lauben-ffa500?style=flat&labelColor=000000&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13951687/lauben-junior)](https://stackoverflow.com/users/13951687/lauben-junior)
 
