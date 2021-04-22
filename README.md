@@ -3,11 +3,10 @@
 
 ## l'm a software engineering student,  developer and Enterprise Software Enthusiast.
 1. l'm currently learning web application development
-    - Python
-    - Django
+    - ![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)
+    - ![Django Badge](https://img.shields.io/badge/-Django-0C4B33?style=for-the-badge&labelColor=black&logo=django&logoColor=0C4B33)
 
-2. Finishing my Bachelor's Degree in Software Engineering @ [Liaocheng University](http://english.lcu.edu.cn).
-Website Twitter Follow
+2. Finishing my Bachelor's Degree in Software Engineering (Expected January 2022)
 
 3. 2021 Goals
     - Dive deeper into Web Application Development and work on personal projects.
@@ -20,10 +19,14 @@ Website Twitter Follow
 
 <br />
 
+### VISIT [MY SITE](https://lauben-256.github.io)
+
+<br />
+
 ### LET'S CONNECT
 <!-- <tumusiimelauben9@gmail.com> -->
 
-[Website](https://lauben-256.github.io)
+<!-- [Website](https://lauben-256.github.io) -->
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@codeline17-1ca0f1?style=flat&labelColor=1ca0f1&logo=www&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/codeline17) -->
 
 
