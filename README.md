@@ -51,8 +51,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   5 mins          ███████████████████▒░░░░░   77.60 % 
-PHP      1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.40 % 
+Python   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
