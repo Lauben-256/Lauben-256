@@ -51,7 +51,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+CSS    24 mins         ████████████▓░░░░░░░░░░░░   50.29 % 
+HTML   24 mins         ████████████▒░░░░░░░░░░░░   49.71 % 
 ```
 <!--END_SECTION:waka-->
 
