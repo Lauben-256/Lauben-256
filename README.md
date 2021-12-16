@@ -51,7 +51,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       23 mins         ████████████████████████▓   98.55 % 
+Python       35 mins         ███████████████████████░░   92.35 % 
+JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 ```
 <!--END_SECTION:waka-->
 
