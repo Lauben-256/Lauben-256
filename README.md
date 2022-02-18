@@ -51,11 +51,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 58 mins
+Total: 4 hrs 14 mins
 
-Python       2 hrs 42 mins   ██████████████████████▓░░   91.24 % 
-Git Config   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Python       3 hrs 58 mins   ███████████████████████▒░   93.68 % 
+Git Config   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
