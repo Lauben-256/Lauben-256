@@ -51,8 +51,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 4 hrs 14 mins
-
 Python       3 hrs 58 mins   ███████████████████████▒░   93.68 % 
 Git Config   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
