@@ -50,10 +50,11 @@
 ### CODING STATS
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       4 hrs 9 mins    ████████████████████████▒   97.88 % 
-Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Python   10 mins         █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br />
